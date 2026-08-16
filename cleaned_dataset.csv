@@ -1,0 +1,8 @@
+customer_id,name,email,age,gender,city,signup_date,purchase_amount
+1,John Smith,john.smith@email.com,28.0,Male,New York,2023-01-15,540.5
+2,Emma Watson,emma.w@email.com,34.0,Female,Chicago,2023-01-15,1200.0
+5,Sara Khan,sara.k@email.com,34.0,Female,Chicago,2023-01-15,875.0
+6,David Brown,david.b@email.com,39.0,Male,Houston,2023-01-15,620.0
+8,Robert King,robert.k@email.com,34.0,Male,Boston,2023-03-12,990.0
+10,Nina Patel,nina.p@email.com,29.0,Female,Seattle,2023-03-12,430.75
+11,Tom O'Neil,tom.o@email.com,52.0,Male,Miami,2023-04-18,1550.0
